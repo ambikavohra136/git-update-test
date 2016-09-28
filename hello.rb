@@ -1,3 +1,4 @@
+# Author: Ambi
 # Add a comment 
 name = ARGV.first || "World"
 
